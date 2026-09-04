@@ -1,0 +1,1 @@
+The function substracts b from a. Insert the numbers a and b to use the substract function.
