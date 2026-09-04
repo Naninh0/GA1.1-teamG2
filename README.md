@@ -8,3 +8,6 @@ It might brake when you add 3 numbers instead of 2 or when you add infinitely la
 Multiply function:
 This function is used to multiply two numbers with each other. The numbers can include decimals. The function can't be used for multiplying more than two numbers.
 The function is used by typing the name of the function and adding the two numbers within the brackets, i.e. multiply(5, 3).
+
+Distance_from_zero function:
+This function can be used to calculate the distance from any number to zero. The number returned is never negative, given that it's a distance. To use the function, insert your number into the function, i.e. distance_from_zero(-6.4).
