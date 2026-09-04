@@ -1,1 +1,1 @@
-The function substracts b from a. Insert the numbers a and b to use the substract function.
+The function substracts b from a. Insert the numbers a and b to use the substract function. It might brake when you add 3 numbers instead of 2 or when you add infinitely large numbers. 
