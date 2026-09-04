@@ -9,5 +9,10 @@ Multiply function:
 This function is used to multiply two numbers with each other. The numbers can include decimals. The function can't be used for multiplying more than two numbers.
 The function is used by typing the name of the function and adding the two numbers within the brackets, i.e. multiply(5, 3).
 
+
+
 Distance_from_zero function:
 This function can be used to calculate the distance from any number to zero. The number returned is never negative, given that it's a distance. To use the function, insert your number into the function, i.e. distance_from_zero(-6.4).
+
+Extension function B:
+Function sums a list of numbers. Enter as many numbers as you like in a list. For example: print(sum_list([4,5,10,5,27,19])). The output will be 70.
