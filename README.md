@@ -16,3 +16,5 @@ This function can be used to calculate the distance from any number to zero. The
 
 Extension function B:
 Function sums a list of numbers. Enter as many numbers as you like in a list. For example: print(sum_list([4,5,10,5,27,19])). The output will be 70.
+
+Extension function square:  Square function multiplies the given number with itself. For example square(5) multiplies 5 with 5 and gives as an output the numer 25!
