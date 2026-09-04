@@ -8,3 +8,6 @@ It might brake when you add 3 numbers instead of 2 or when you add infinitely la
 Multiply function:
 This function is used to multiply two numbers with each other. The numbers can include decimals. The function can't be used for multiplying more than two numbers.
 The function is used by typing the name of the function and adding the two numbers within the brackets, i.e. multiply(5, 3).
+
+Extension function B:
+Function sums a list of numbers. Enter as many numbers as you like in a list. For example: print(sum_list([4,5,10,5,27,19])). The output will be 70.
